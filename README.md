@@ -1,8 +1,8 @@
 <img width="453" height="55" alt="image" src="https://github.com/user-attachments/assets/8cef843d-b4d4-4d44-a6d4-1ffed4e68604" /># EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:*Nithin Bilgates C*
+**Name:* Nithin Bilgates C*
 
-**Register Number:*2305001022*
+**Register Number:* 2305001022*
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
